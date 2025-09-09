@@ -4,7 +4,7 @@ export default function
 () {
   return (
     <div>
-      this is login page
+      Login Page is here.
     </div>
   )
 }
